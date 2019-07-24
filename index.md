@@ -1,5 +1,4 @@
 ---
-layout: home
 ---
 
 Hi. I’m an engineer, specializing in web & mobile software, with experience in data science, hardware, blockchains and physics/mathematics. After my engineering & MBA, I have worked with tech startups in roles as diverse as co-founder, engineering, and product management for almost 12 years. Here is my (outdated) resume.

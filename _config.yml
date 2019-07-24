@@ -1,7 +1,18 @@
+title: Nilesh Trivedi
+author: nileshtrivedi
+email: git@nileshtrivedi.com
+description: testing
+
+show_excerpts: false # set to true to show excerpts on the homepage
+twitter_username: nileshtrivedi
+github_username: nileshtrivedi
+
 theme: minima
+
 header_pages:
-  - now.md
-  - work.md
-  - thoughts.md
-  - music.md
-  - learning.md
+ - now.md
+ - work.md
+ - thoughts.md
+ - music.md
+ - learning.md
+
