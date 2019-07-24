@@ -1,0 +1,7 @@
+theme: minima
+header_pages:
+  - now.md
+  - work.md
+  - thoughts.md
+  - music.md
+  - learning.md
