@@ -1,3 +1,99 @@
 ---
+layout: page
+title: Work
+permalink: /work
 ---
-jhjgj
+
+I started programming in 1999. Starting with C, I finished many projects with Java and Javascript before discovering and falling in love with Ruby. I co-founded a B2B startup (YouSuggest.us which was a social CRM app) and learnt a lot. The companies I have worked with include GupShup, Truweight, HyperTrack, and ClearTax among others. My skills range from web & mobile apps to electronics hardware to hard math like machine learning or algorithmic trading to topics like syllogisms, aerodynamics and mathematics behind music theory. My [resume](/Nilesh_Trivedi_CV.pdf) is here.
+
+You can contact me via [Twitter](http://twitter.com/nileshtrivedi).
+
+<style type="text/css">
+	.portfolio {
+		margin-bottom: 2.0em;
+		border: thin solid grey;
+		background-color: #e9e9e9;
+		border-radius: 6px;
+		padding: 1.0em;
+	}
+</style>
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned">Physics</a></h3>
+	<a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned" class=" img-link"><img class="p-img" src="img/physics.png"></a>
+	<div class="descrip">
+		<p>I made a physics playground app for the browser, which involved vector math, Runge-Kutta integration, impulse-based constraint solver and drawing with HTML5 Canvas API. I gave <a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned" target="_blank">a tech talk about this at JSFoo 2013</a>.</p>      	 		     	 
+<i>Javascript, Canvas API, Mozilla Persona</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://gupshup.me/">GupShup</a></h3>
+	<a href="https://gupshup.me/" class=" img-link"><img class="p-img" src="img/gupshup.png"></a>
+	<div class="descrip">
+		<p>I was tech lead with them from 2009 to 2013, building the enterprise platform serving 35 million users and sending out 2 billion messages every month.</p>
+<i>Ruby, Rails, Android, Facebook API</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://mapgap.herokuapp.com/">MapGap</a></h3>
+	<a href="https://mapgap.herokuapp.com/" class=" img-link"><img class="p-img" src="img/mapgap.png"></a>
+	<div class="descrip">
+		<p>I made this app at <a href="http://spaceappschallenge.org/" target="_blank">NASA Space Apps Challenge</a> at Delhi in April 2013. It allows you to submit spots in the planet to NASA where satelite imagery is needed but missing.</p>
+	<i>Ruby, Sinatra, MongoDB & Google Maps API</i> 
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="http://bugroulette.heroku.com/">BugRoulette</a></h3>
+	<a href="http://bugroulette.heroku.com/"  class="img-link"> <img class="p-img" src="img/github.png"></a>
+	<div class="descrip">
+		<p>I made this app for events like <a href="http://pullathon.com/" target="_blank">Pullathon</a>. It lets you randomly browse open issues from GitHub repositories that you follow.</p>
+		<i>Ruby, Sinatra, GitHub, OAuth</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="http://www.nileshtrivedi.com/livecoding_js_demo/">Live Coding</a></h3>        		
+	<a href="http://www.nileshtrivedi.com/livecoding_js_demo/" class=" img-link"><img class="p-img" src="img/livecoding.png"></a>
+	<div class="descrip">
+		<p>Inspired from <a href="http://vimeo.com/36579366" target="_blank">Bret Victor's famous talk</a>, I made this prototype for live coding. The idea is that as you code, the tests are run automatically and their status is immediately visible to the programmer.</p>
+			<i>Javascript</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/validated_arguments">validated_arguments</a></h3>
+	<a href="https://github.com/nileshtrivedi/validated_arguments" class=" img-link"><img class="p-img" src="img/gem.png"></a>
+	<div class="descrip">
+		<p>This gem allows one to use ActiveModel to validate arguments for any Ruby method.</p>
+		<i>Ruby</i> 
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/rbfnv">rbfnv</a></h3>
+	<a href="https://github.com/nileshtrivedi/rbfnv"  class="img-link"> <img class="p-img" src="img/gem.png"></a>
+	<div class="descrip">
+		<p>A native gem to calculate FNV hashes for Ruby</p>
+		<i>C, Ruby</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/eav_presenter">eav_presenter</a></h3>
+	<a href="https://github.com/nileshtrivedi/eav_presenter" class=" img-link"><img class="p-img" src="img/gem.png"></a>
+	<div class="descrip">
+		<p>ActiveRecord like presenter model for the Entity-Value-Attribute design pattern.</p>
+		<i>Ruby, Rails</i> 
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/auto_form">auto_form</a></h3>
+	<a href="https://github.com/nileshtrivedi/auto_form" class=" img-link"><img class="p-img" src="img/gem.png"></a>
+	<div class="descrip">
+		<p>Auto-generate GET/POST actions and form for any method in Rails controllers.</p>
+		<i>Ruby, Rails</i> 
+	</div>
+</div>	

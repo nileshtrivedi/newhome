@@ -1,18 +1,20 @@
 title: Nilesh Trivedi
-author: nileshtrivedi
-email: git@nileshtrivedi.com
-description: testing
+author: 
+email: 
+description: 
+url: "https://nilesh.trivedi.pw"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 twitter_username: nileshtrivedi
 github_username: nileshtrivedi
 
 theme: minima
+plugins:
+  - jekyll-target-blank
 
 header_pages:
- - now.md
- - work.md
- - thoughts.md
- - music.md
- - learning.md
+  - now.md
+  - work.md
+  - music.md
+  - learning.md
 
