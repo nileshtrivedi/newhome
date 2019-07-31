@@ -4,4 +4,3 @@ title: Thoughts
 permalink: /thoughts
 ---
 
-trhouhts

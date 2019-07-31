@@ -6,7 +6,7 @@ permalink: /work
 
 I started programming in 1999. Starting with C, I finished many projects with Java and Javascript before discovering and falling in love with Ruby. I co-founded a B2B startup (YouSuggest.us which was a social CRM app) and learnt a lot. The companies I have worked with include GupShup, Truweight, HyperTrack, and ClearTax among others. My skills range from web & mobile apps to electronics hardware to hard math like machine learning or algorithmic trading to topics like syllogisms, aerodynamics and mathematics behind music theory. My [resume](/Nilesh_Trivedi_CV.pdf) is here.
 
-You can contact me via [Twitter](http://twitter.com/nileshtrivedi).
+You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_blank'}.
 
 <style type="text/css">
 	.portfolio {

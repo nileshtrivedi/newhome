@@ -2,15 +2,12 @@ title: Nilesh Trivedi
 author: 
 email: 
 description: 
-url: "https://nilesh.trivedi.pw"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 twitter_username: nileshtrivedi
 github_username: nileshtrivedi
 
 theme: minima
-plugins:
-  - jekyll-target-blank
 
 header_pages:
   - now.md
