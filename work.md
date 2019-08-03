@@ -36,8 +36,8 @@ You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_bla
 </div>
 
 <div class="portfolio">
-	<h3 class="p-heading"><a href="https://mapgap.herokuapp.com/">MapGap</a></h3>
-	<a href="https://mapgap.herokuapp.com/" class=" img-link"><img class="p-img" src="img/mapgap.png"></a>
+	<h3 class="p-heading">MapGap</h3>
+	<img class="p-img" src="img/mapgap.png">
 	<div class="descrip">
 		<p>I made this app at <a href="http://spaceappschallenge.org/" target="_blank">NASA Space Apps Challenge</a> at Delhi in April 2013. It allows you to submit spots in the planet to NASA where satelite imagery is needed but missing.</p>
 	<i>Ruby, Sinatra, MongoDB & Google Maps API</i> 
@@ -45,8 +45,8 @@ You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_bla
 </div>
 
 <div class="portfolio">
-	<h3 class="p-heading"><a href="http://bugroulette.heroku.com/">BugRoulette</a></h3>
-	<a href="http://bugroulette.heroku.com/"  class="img-link"> <img class="p-img" src="img/github.png"></a>
+	<h3 class="p-heading">BugRoulette</h3>
+	<img class="p-img" src="img/github.png">
 	<div class="descrip">
 		<p>I made this app for events like <a href="http://pullathon.com/" target="_blank">Pullathon</a>. It lets you randomly browse open issues from GitHub repositories that you follow.</p>
 		<i>Ruby, Sinatra, GitHub, OAuth</i>
@@ -62,38 +62,3 @@ You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_bla
 	</div>
 </div>
 
-<div class="portfolio">
-	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/validated_arguments">validated_arguments</a></h3>
-	<a href="https://github.com/nileshtrivedi/validated_arguments" class=" img-link"><img class="p-img" src="img/gem.png"></a>
-	<div class="descrip">
-		<p>This gem allows one to use ActiveModel to validate arguments for any Ruby method.</p>
-		<i>Ruby</i> 
-	</div>
-</div>
-
-<div class="portfolio">
-	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/rbfnv">rbfnv</a></h3>
-	<a href="https://github.com/nileshtrivedi/rbfnv"  class="img-link"> <img class="p-img" src="img/gem.png"></a>
-	<div class="descrip">
-		<p>A native gem to calculate FNV hashes for Ruby</p>
-		<i>C, Ruby</i>
-	</div>
-</div>
-
-<div class="portfolio">
-	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/eav_presenter">eav_presenter</a></h3>
-	<a href="https://github.com/nileshtrivedi/eav_presenter" class=" img-link"><img class="p-img" src="img/gem.png"></a>
-	<div class="descrip">
-		<p>ActiveRecord like presenter model for the Entity-Value-Attribute design pattern.</p>
-		<i>Ruby, Rails</i> 
-	</div>
-</div>
-
-<div class="portfolio">
-	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/auto_form">auto_form</a></h3>
-	<a href="https://github.com/nileshtrivedi/auto_form" class=" img-link"><img class="p-img" src="img/gem.png"></a>
-	<div class="descrip">
-		<p>Auto-generate GET/POST actions and form for any method in Rails controllers.</p>
-		<i>Ruby, Rails</i> 
-	</div>
-</div>	
