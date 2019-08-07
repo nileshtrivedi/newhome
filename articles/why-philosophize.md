@@ -1,0 +1,16 @@
+---
+layout: page
+title: Why philosophize?
+---
+
+Given that philosophy literally means "the love of wisdom", the question can be rather simply stated as "Why should we think?". While it may seem trivial, it still needs to be investigated. Here is my attempt to understand this question by breaking it down into parts. The affirmative answer is subject to 3 underlying premises as I understand it.  
+  
+First belief that all of us possess is that we are free agents with an ability to exercise choice. Although [free will is far from understood](http://www.wired.com/science/discoveries/news/2008/04/mind_decision), the so-called "illusion" of choice is a rather strong one. Even though, as biological entities, we are [born with an intricate web of instincts and desires](http://robertwright.com/moral-animal/), there does seem to be a part of us which has the power to veto. Call it the conscious mind or the self-aware brain, the whole exercise becomes futile and leads to [nihilism](https://en.wikipedia.org/wiki/Nihilism) if we give up this premise that we have choice. The fact that you are asking the question "Should we think?" implies that you already acknowledge the choice of not philosophizing. _Neo_ said it rather succinctly in _The Matrix_: "The problem is choice".
+
+The next assumption is that the choices we make lead to consequences which are somewhat, if not completely, predictable. This basically means that there exist laws of nature which are discoverable and comprehensible. This is the subject matter of the natural sciences. The more you know about the laws of nature, the better guesses you'll be able to make about the future.
+
+And the last premise that is needed is that the future "matters". That is, some of the consequences are more desirable than the rest. This desirability of a state of affairs may be [hard-wired into us](https://secure.wikimedia.org/wikipedia/en/wiki/Dopamine#Motivation_and_pleasure), but it exists nonetheless. Moreover, as free agents, we also have the ability to "chose" our own goals and our own paths. This last question of "What really matters?" is where science cannot help and philosophy alone needs to carry the burden.
+
+In short, **yes**, you should philosophize **if** you accept that (1) you have the ability to exercise choices, (2) you have the ability to guess the consequences of those choices and (3) some consequences are more desirable than others. Philosophy is useless if you disagree with any of these premises. _(Exercise: try removing each of those premises and see what conclusion it leads to)_. A much simpler summary of this would be - any agent who wonders "what should I do?" is a perfect candidate for philosophy.
+
+To reach the affirmative answer, we have only used these 3 premises and nothing else. You may believe in immorality or [solipsism](https://secure.wikimedia.org/wikipedia/en/wiki/Dopamine#Motivation_and_pleasure), but philosophy would still be useful to you. And even if you disagree with these premises, philosophy in itself may be a pleasurable activity thus needing no justification of utility at all.

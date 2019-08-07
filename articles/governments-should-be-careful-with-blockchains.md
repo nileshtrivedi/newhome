@@ -1,0 +1,14 @@
+---
+layout: page
+title: "Why governments should be slow and careful with blockchains"
+---
+
+I am an open-source contributor for various blockchain projects: Ethereum Core, BigchainDB, InterPlanetary Database, Indium.Network etc. In this piece, I argue that while the private sector should be allowed to experiment and apply blockchain-based solutions, governments need to be slow and careful about deploying any nation-scale blockchain.
+
+- Blockchain technology is very nascent. Building long-term tamper-resistant public infrastructure on top of a fast moving tech is *VERY* risky. What happens if the current cryptographic algorithms (hashing / encryption / digital signatures) get broken by scientific advancements such as quantum computing? Or the consensus algorithms turn out to have vulnerabilities that hostile actors can exploit? It will enable attacks that wouldn’t have been possible otherwise and will cause a major disruption.
+
+- Tamper-resistance of blockchain poses new challenges. For example, it will be possible to publish national secrets or other illegal content on the chain and reveal them once it’d have become infeasible for the government to backtrack. Such content can be encoded in various ways: Transaction metadata, recipient’s public keys, and even transaction amounts. The govt will then have to give up the immutability of the chain — doing away with any benefit of the whole exercise.
+
+- Blockchain primarily makes it possible to solve coordination challenges between untrusting entities. If a single entity (like a government or a corporation) is in a position to push a blockchain-based solution and ensure its adoption, guess what: there was no coordination problem there to begin with! The major part of advantage of the blockchain-based governance projects comes not due to blockchain, but due to digitization. One can achieve those benefits without the above-mentioned risks of blockchain. For example, it is possible to achieve transparency and tamper-resistance in centralized databases by periodically publishing snapshots.
+
+- This goes back to the first point. By adopting current blockchain tech RIGHT NOW for nation-scale projects, we will make it much harder for us to adopt better tech that arrives later. Today’s blockchains are the equivalent of 1980’s computing platforms. A lot of work is happening on consensus algorithms, quantum-safe cryptography , permissioned-but-public networks, on-chain governance, cross-ledger value transfer, formal verification, identity systems, zero-knowledge proofs, scaling / sharding, proof-of-human-work etc. By jumping on the bandwagon too soon, we will get locked into inferior technology.
