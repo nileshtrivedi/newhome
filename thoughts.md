@@ -7,9 +7,9 @@ permalink: /thoughts
 # Talks
 
 - [How to learn anything better](talks/learn.html)
-- [The Games of Life](https://speakerdeck.com/nileshtrivedi/the-games-of-life)
-- [Curation Markets and Bonding Curves](https://speakerdeck.com/nileshtrivedi/curation-markets-and-bonding-curves)
-- [How to build a career in Web 3.0](https://speakerdeck.com/nileshtrivedi/how-to-build-a-career-in-web-3-dot-0)
+- [The Games of Life](talks/gamesoflife.pdf)
+- [Curation Markets and Bonding Curves](talks/curation-markets.pdf)
+- [How to build a career in Web 3.0](talks/web3careers.pdf)
 - [The Problem of Funding FOSS](https://docs.google.com/presentation/d/e/2PACX-1vSLYWNH6b3hekel7Vef7tp5pKiBZs2UITVAqJZlVzxneRvb6HeNTuBwKiLq-GxTNqE4VXKjrUu1hVw9/pub?start=false&loop=false&delayms=3000)
 
 # Article
