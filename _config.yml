@@ -6,6 +6,7 @@ include: _redirects
 show_excerpts: false # set to true to show excerpts on the homepage
 twitter_username: nileshtrivedi
 github_username: nileshtrivedi
+linkedin_username: nileshtrivedi
 
 theme: minima
 
