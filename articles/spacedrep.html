@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <title>Spaced repetition for the entire Web?</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://cdn.jsdelivr.net/gh/learn-awesome/flashcard@master/dist/CardSet.umd.min.js"></script>
+    <style>
+        p {
+            line-height: 1.8;
+        }
+
+    </style>
+  </head>
+  <body>
+    <h1>Spaced repetition for the entire Web?</h1>
+
+    <p>
+        <a href="https://learnawesome.org/topics/b874168f-6c52-408b-a93a-6dbf07ee4ec7-spaced-repetition" target="_blank">Spaced repetition</a>,
+        when embedded <i>within</i> the content you're reading, is extraordinarily effective for not just improving
+        retention but also conceptual understanding of complex topics. Try that yourself with  
+        <a href="https://ncase.me/remember/" target="_blank">Nicky Case's interactive about spaced-repetition itself</a> and 
+        <a href="https://quantum.country" target="_blank">Michael Nielson and Andy Matuschak's series about Quantum Mechanics</a>.
+    </p>
+    <p>
+        I built a <a href="https://github.com/learn-awesome/flashcard" target="_blank">reusable component</a> that allows Web authors
+        to embed sets of flashcards (question-answer pairs) within their writing, but that stores users'
+        progress in the browser's <code>localStorage</code>. Authors don't need to <i>write code</i> or use a third-part server, and users
+        don't need to <i>download apps</i>. Ideally, I wanted to build simple <code>&lt;card-set&gt;</code> and <code>&lt;flash-card&gt;</code>
+        tags - avoiding any need for writing Javascript, but due to
+        the limitations of VueJS and WebComponents, this is the best I could do. Improvements are welcome!
+    </p>
+
+    <p>
+        I earlier <a href="https://medium.com/learn-awesome/practice-what-you-learn-using-learnawesome-orgs-flashcards-3343d57a33b0"></a>
+        built a FlashCard-module</a> in <a href="https://learnawesome.org" target="_blank">LearnAwesome.org</a> with two features that 
+        I think are very cool: (a) A <b>browser-extension that infers the question from the surrounding text</b> and lets you 
+        quickly create a flashcard about something you want to remember
+        from your online reading and (b) <b>a tool that can bulk-create flashcards from your notes</b>, thus helping you remember things from
+        non-textual or offline learning: videos, meetings, conferences etc. This new component should make it even more easier for
+        online educators to adopt SRS.
+    </p>
+
+    <h2>Demo:</h2>
+
+    <div id="cardset1">
+        <card-set></card-set>
+    </div>
+
+    <script>
+    new Vue({
+      el: '#cardset1',
+      data: {
+        flashCards: [
+            {
+              qid: 'qid1',
+              question: 'When did India become independent?',
+              answer: '1947',
+              flipped: false,
+              answered: null
+            }
+        ]
+      },
+      components: {
+        'card-set': CardSet
+      }
+    })
+    </script>
+
+    <h2>Code:</h2>
+    <script src="https://gist.github.com/eshnil/ce0cbc22e153eeb4469bf23b01b22e72.js"></script>
+
+    <p style="margin-bottom: 150px;">If you run into any bugs, or need any features / customizations, please come over
+        to the <a href="https://github.com/learn-awesome/flashcard" target="_blank">GitHub repo</a>. I am
+        also active on <a href="https://twitter.com/nileshtrivedi" target="_blank">Twitter</a>.
+    </p>
+
+  </body>
+</html>
