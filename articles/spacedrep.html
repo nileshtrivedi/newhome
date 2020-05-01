@@ -28,11 +28,12 @@
     <p>
         I built a <a href="https://github.com/learn-awesome/flashcard" target="_blank">reusable component</a> that allows Web authors
         to embed sets of flashcards (question-answer pairs) within their writing, but that stores users'
-        progress in the browser's <code>localStorage</code>. So that anyone can create content in &quot;mnemonic medium&quot; like the 
+        progress in the browser's <code>localStorage</code>. With this, anyone can create content in a &quot;mnemonic medium&quot; like the 
         above two articles. Authors don't need to <i>write code</i> or use a third-part server, and users
-        don't need to <i>download apps</i>. Ideally, I wanted to build simple <code>&lt;card-set&gt;</code> and <code>&lt;flash-card&gt;</code>
-        tags - avoiding any need for writing Javascript, but due to
-        the limitations of VueJS and WebComponents, this is the best I could do. Improvements are welcome!
+        don't need to <i>download apps</i>. Ideally, I wanted to build <code>&lt;card-set&gt;</code> and <code>&lt;flash-card&gt;</code>
+        as standard HTML custom elements - which would have been easier to use, and also allowed questions and answers to be arbitrary HTML
+        (pictures, math, audio or video clips etc), but due to
+        the limitations of VueJS and WebComponents, this is the best I could do for now. Improvements are welcome!
     </p>
 
     <p>
@@ -42,13 +43,17 @@
         quickly create a flashcard about something you want to remember
         from your online reading and (b) <b>a tool that can bulk-create flashcards from your notes</b>, thus helping you remember things from
         non-textual or offline learning: videos, meetings, conferences etc. This new component should make it even more easier for
-        online educators to adopt SRS.
+        online writers to adopt SRS.
     </p>
 
     <h2>Demo:</h2>
 
+    <p>There are 10 levels, and a card moves to next level if recall is working after 2^level days. But for this demo, that factor has been 
+      scaled to 2^level <i>seconds</i>.
+    </p>
+
     <div id="cardset1">
-        <card-set></card-set>
+        <card-set timeunit="seconds"></card-set>
     </div>
 
     <script>
@@ -58,8 +63,29 @@
         flashCards: [
             {
               qid: 'qid1',
-              question: 'When did India become independent?',
-              answer: '1947',
+              question: 'Name the 5 countries who are permanent members of UN security council',
+              answer: 'USA, China, Russia, France, UK',
+              flipped: false,
+              answered: null
+            },
+            {
+              qid: 'qid2',
+              question: 'COVID-19 disease is caused by which family of viruses?',
+              answer: 'Coronavirus',
+              flipped: false,
+              answered: null
+            },
+            {
+              qid: 'qid3',
+              question: 'How many scheduled languages are there in Indian constitution?',
+              answer: '22',
+              flipped: false,
+              answered: null
+            },
+            {
+              qid: 'qid4',
+              question: 'In CSS, "flex" is a value for which property?',
+              answer: 'display',
               flipped: false,
               answered: null
             }
@@ -75,8 +101,8 @@
     <script src="https://gist.github.com/eshnil/ce0cbc22e153eeb4469bf23b01b22e72.js"></script>
 
     <p style="margin-bottom: 150px;">If you run into any bugs, or need any features / customizations, please come over
-        to the <a href="https://github.com/learn-awesome/flashcard" target="_blank">GitHub repo</a>. I am
-        also active on <a href="https://twitter.com/nileshtrivedi" target="_blank">Twitter</a>.
+        to the <a href="https://github.com/learn-awesome/flashcard" target="_blank">GitHub repo</a> or ping me
+        on <a href="https://twitter.com/nileshtrivedi" target="_blank">Twitter</a>.
     </p>
 
   </body>
