@@ -19,6 +19,33 @@ You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_bla
 		padding: 1.0em;
 	}
 </style>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://learnawesome.org/about">LearnAwesome.org</a></h3>
+	<a href="https://learnawesome.org/about" class=" img-link"><img class="p-img" src="img/learnawesome.png"></a>
+	<div class="descrip">
+		<p>This is an attempt to build a Google Maps for learning. This is a work-in-progress but it ended up getting featured by <a href="https://www.producthunt.com/posts/learnawesome">ProductHunt</a> and <a href="https://news.ycombinator.com/item?id=23795779">Hacker News</a>.</p>      	 		     	 
+		<i>Ruby, Rails, PostgreSQL, TailwindCSS</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://nilesh.trivedi.pw/articles/spacedrep.html">Embedded Flashcard with Spaced Repetition</a></h3>
+	<a href="https://nilesh.trivedi.pw/articles/spacedrep.html" class=" img-link"><img class="p-img" src="img/flashcard.png"></a>
+	<div class="descrip">
+		<p>This is a reusable UI widget which any webpage can embed for their readers to practice the content using spaced-repetition techniques. All progress is kept on localStorage so users do not need to sign up.</p>      	 		     	 
+		<i>VueJS, Web Components</i>
+	</div>
+</div>
+
+<div class="portfolio">
+	<h3 class="p-heading"><a href="https://bizzy.polyglot.network">Bizzy - responsive design testing tool</a></h3>
+	<a href="https://bizzy.polyglot.network" class=" img-link"><img class="p-img" src="img/bizzy.png"></a>
+	<div class="descrip">
+		<p>This is a fork of an old version of Sizzy that lets you test a webpage in different screen sizes.</p>      	 		     	 
+	</div>
+</div>
+
 <div class="portfolio">
 	<h3 class="p-heading"><a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned">Physics</a></h3>
 	<a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned" class=" img-link"><img class="p-img" src="img/physics.png"></a>
