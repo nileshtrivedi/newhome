@@ -11,7 +11,9 @@ Most programs are not passive. Code is supposed to **do** things - manipulate th
 
 But can't it really? Almost immediately I realized that code itself can be used to capture the expected behaviour of another piece of code. By the means of **executable tests**. So the boolean test results are sufficient to explain whether a piece of code works correctly or not. It is possible to visualize the health of a codebase in an instant.
 
-So I sat down and put together a minimal prototype for this. You can try it here: [https://nilesh.trivedi.pw/livecoding\_js\_demo/](https://nilesh.trivedi.pw/livecoding_js_demo/).
+So I sat down and put together a minimal prototype for this.
+
+<img src="/img/livecoding.png" width="100%" />
 
 Of course, there are problems with live evaluation of code. One example is infinite loops which can be avoided by multiple threads. But seeing all the possible corner cases get resolved in real-time as you edit the code is incredibly fun. The bugs become immediately visible - making the programmer confident and happy. The longer it takes to realize that we made a mistake, the more miserable we feel. Nobody minds making a mistake when it can be immediately corrected. This also gives us an incentive to write comprehensive tests which is always a good thing.
 
