@@ -30,6 +30,15 @@ You can contact me via [Twitter](http://twitter.com/nileshtrivedi){:target='_bla
 </div>
 
 <div class="portfolio">
+	<h3 class="p-heading"><a href="https://github.com/nileshtrivedi/better">Better</a></h3>
+	<a href="https://github.com/nileshtrivedi/better" class=" img-link"><img class="p-img" src="img/better.png"></a>
+	<div class="descrip">
+		<p>This is a browser extension that recommends "better" alternative products and services via in-page popups, based on community-curated lists. Available for all Chromium and Firefox-based browsers..</p>      	 		     	 
+		<i>Javascript, Web Extension API</i>
+	</div>
+</div>
+
+<div class="portfolio">
 	<h3 class="p-heading"><a href="https://nilesh.trivedi.pw/articles/spacedrep.html">Embedded Flashcard with Spaced Repetition</a></h3>
 	<a href="https://nilesh.trivedi.pw/articles/spacedrep.html" class=" img-link"><img class="p-img" src="img/flashcard.png"></a>
 	<div class="descrip">
