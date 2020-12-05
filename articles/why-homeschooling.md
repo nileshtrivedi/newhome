@@ -20,6 +20,7 @@ Notice the things that I'm not worried about with homeschooling:
 We haven't tried to follow any structured program for her formal learning. Our focus was only on fitness, language and math skills - and a gymnastics class, watching movies, reading books, [playing games and puzzles](https://dhimath.org) - were more than enough to make good progress.
 
 ![Tanu teaching Scratch programming to her friend and no, we didn't sign up for a WhiteHat Junior class](/img/homeschool.jpg "Tanu teaching Scratch programming to her friend and no, we didn't sign up for a WhiteHat Junior class")
+*Tanu teaching Scratch programming to her friend and no, we didn't sign up for a WhiteHat Junior class*
 
 But as I wrote above, a *good* school would definitely be better than homeschooling. The reason we opted for homeschooling till now is that we couldn't find a good school nearby. I will list the qualities I'm looking for in a good school:
 
