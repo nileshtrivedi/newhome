@@ -5,6 +5,12 @@ title: Why I Am Homeschooling My Daughter
 
 <meta property="og:image" content="https://nilesh.trivedi.pw/img/homeschool.jpg">
 <meta property="og:description" content="By Nilesh Trivedi">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="nilesh.trivedi.pw">
+<meta property="twitter:url" content="https://nilesh.trivedi.pw/articles/why-homeschool.html">
+<meta name="twitter:title" content="Why I Am Homeschooling My Daughter">
+<meta name="twitter:description" content="By Nilesh Trivedi">
+<meta name="twitter:image" content="https://nilesh.trivedi.pw/img/homeschool.jpg">
 
 We have a 7yo daughter and we have been [homeschooling](https://www.youtube.com/channel/UCJuguNvfsC4kIxHtev9i6ew){:target="_blank"} her till now. However, [I don't consider homeschooling as an optimal choice](https://twitter.com/nileshtrivedi/status/1302960457406320640){:target="_blank"} for most parents. I think a dedicated space for learning in groups, i.e. a *school*, is very valuable primarily for these reasons:
 
