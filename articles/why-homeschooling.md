@@ -6,14 +6,14 @@ title: Why I Am Homeschooling My Daughter
 
 We have a 7yo daughter and we have been [homeschooling](https://www.youtube.com/channel/UCJuguNvfsC4kIxHtev9i6ew){:target="_blank"} her till now. However, [I don't consider homeschooling as an optimal choice](https://twitter.com/nileshtrivedi/status/1302960457406320640){:target="_blank"} for most parents. I think a dedicated space for learning in groups, i.e. a *school*, is very valuable primarily for these reasons:
 
-- [Teaching is important but hard](https://learnawesome.org/items/ec8e3a9a-4cce-4c79-b53f-9a9c3af7dc8b-how-people-learn-brain-mind-experience-and-school){:target="_blank"}.
-- Not every parent is a good teacher.
-- Homeschooling is expensive as it forces at least one parent to compromise on career and life.
+- [**Teaching is important but hard**](https://learnawesome.org/items/ec8e3a9a-4cce-4c79-b53f-9a9c3af7dc8b-how-people-learn-brain-mind-experience-and-school){:target="_blank"}.
+- **Not every parent is a good teacher.**
+- **Homeschooling is expensive** as it forces at least one parent to compromise on career and life.
 
 Notice the things that I'm not worried about with homeschooling:
 
-- Lack of socialization: In cities like Bangalore, this was not a problem at all. There's a large, active homeschoolers community and we used to plenty of socialization - including meetups, field trips, activities and more.
-- Falling behind on traditional curriculum: Again, this has not been the experience as we have plenty of resources. We involved Tanu in our lives (for eg: she often joins me at my workplace, meetups and conferences). She started reading early and has gotten plenty of explosure to basic curriculum material.
+- **Lack of socialization:** In cities like Bangalore, this was not a problem at all. There's a large, active homeschoolers community and we used to plenty of socialization - including meetups, field trips, activities and more.
+- **Falling behind on traditional curriculum:** Again, this has not been the experience as we have plenty of resources. We involved Tanu in our lives (for eg: she often joins me at my workplace, meetups and conferences). She started reading early and has gotten plenty of explosure to basic curriculum material.
 
 We haven't tried to follow any structured program for her formal learning. Our focus was only on fitness, language and math skills - and a gymnastics class, watching movies, reading books, [playing games and puzzles](http://dhimath.org){:target="_blank"} - were more than enough to make good progress.
 
