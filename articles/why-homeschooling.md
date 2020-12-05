@@ -32,7 +32,7 @@ But as I wrote above, a *good* school would definitely be better than homeschool
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. 
 
-- **High ratio of excellence to engagement:** We don't mind if the school takes 12 hours each day as long as the quality matches up. Similarily, it's **okay** if the school is not providing excellence as long as it keeps engagement (# of structured hours) low because as parents, we can make up for it. What IS terrible is a school that takes up a lot of time away, and then offers poor quality learning experience.
+- **High ratio of excellence to engagement:** We don't mind if the school takes 12 hours each day as long as the quality matches up. Similarily, it's **okay** if the school is not providing excellence as long as it keeps engagement (# of structured hours) low because as parents, we can make up for it. What IS terrible is a school that takes up a lot of time away (say, with too much homework), but offers poor quality learning experience.
 
 - **Location:** For young kids in cities, long commutes seem undesirable. This is why finding the above 4 qualities close enough to my home has been difficult. I have earlier written about why I think remote/online learning for young kids is [a bad idea](https://twitter.com/nileshtrivedi/status/1321286978944618497){:target="_blank"}.
 
