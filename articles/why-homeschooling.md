@@ -6,7 +6,7 @@ title: Why I Am Homeschooling My Daughter
 
 We have a 7yo daughter and we have been [homeschooling](https://www.youtube.com/channel/UCJuguNvfsC4kIxHtev9i6ew){:target="_blank"} her till now. However, [I don't consider homeschooling as an optimal choice](https://twitter.com/nileshtrivedi/status/1302960457406320640){:target="_blank"} for most parents. I think a dedicated space for learning in groups, i.e. a *school*, is very valuable primarily for these reasons:
 
-- Teaching is important but [hard](https://learnawesome.org/items/ec8e3a9a-4cce-4c79-b53f-9a9c3af7dc8b-how-people-learn-brain-mind-experience-and-school){:target="_blank"}.
+- [Teaching is important but hard](https://learnawesome.org/items/ec8e3a9a-4cce-4c79-b53f-9a9c3af7dc8b-how-people-learn-brain-mind-experience-and-school){:target="_blank"}.
 - Not every parent is a good teacher.
 - Homeschooling is expensive as it forces at least one parent to compromise on career and life.
 
@@ -26,7 +26,9 @@ But as I wrote above, a *good* school would definitely be better than homeschool
 
 - **Subject-mixing (cross-disciplinary learning)**: In many schools, teachers and classes are focused on specific subjects (such as language, maths, history, science, environment). But [this is terrible](https://learnawesome.org/items/0845a1d7-4d95-4268-9aad-472f7d32f627-dumbing-us-down){:target="_blank"}. Knowledge has to be connected and relevant to be meaningful.
 
-- **Focus on hands-on skills:** In India, the elite educated class has historically eschewed hands-on work and manual labour. This has produced a generation - including me - who are high on bookish/intellectual knowledge but often incapable of real, concrete skills.
+- **Focus on hands-on skills:** In India, the elite educated class has historically eschewed hands-on work and manual labour. This has produced a generation - including me - who are high on bookish/intellectual knowledge but often wanting on many life skills. I was influenced a lot by this idea of [the competent man](https://en.wikipedia.org/wiki/Competent_man){:target="_blank"}:
+
+> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. 
 
 - **High ratio of excellence to engagement:** We don't mind if the school takes 12 hours each day as long as the quality matches up. Similarily, it's **okay** if the school is not providing excellence as long as it keeps engagement (# of structured hours) low because as parents, we can make up for it. What IS terrible is a school that takes up a lot of time away, and then offers poor quality learning experience.
 
