@@ -13,6 +13,7 @@ permalink: /thoughts
 
 # Articles
 
+- [Why I'm homeschooling my daughter](articles/why-homeschooling.md)
 - [Spaced repetition for the entire Web](articles/spacedrep.html)
 - [Why Philosophize?](articles/why-philosophize.md)
 - [Targeted Ads Are Problematic](articles/targeted-ads-are-problematic.md)
