@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 
 Hi. I’m an engineer - specializing in web & mobile software, with experience in data science, hardware, blockchains, physics &amp; mathematics. After my engineering & MBA, I have worked with tech startups in roles as diverse as co-founder, engineering, and product management for almost 15 years. Here is my (outdated) [resume](/Nilesh_Trivedi_CV.pdf).
